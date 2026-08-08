@@ -1,4 +1,9 @@
 {
-  "users": {},
+  "users": {
+    "test": {
+      "password": "123",
+      "subscribers": []
+    }
+  },
   "videos": []
 }
