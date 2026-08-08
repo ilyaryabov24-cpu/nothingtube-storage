@@ -5,5 +5,15 @@
       "subscribers": []
     }
   },
-  "videos": []
+  "videos": [
+    {
+      "author": "test",
+      "date": "2026-08-08T11:29:00.465047Z",
+      "filePath": "https://raw.githubusercontent.com/ilyaryabov24-cpu/nothingtube-storage/main/videos/1786188536403_test.mp4",
+      "id": "1786188536403",
+      "likedBy": [],
+      "likes": 0,
+      "title": "test"
+    }
+  ]
 }
