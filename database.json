@@ -11,8 +11,10 @@
       "date": "2026-08-08T13:28:22.514076Z",
       "filePath": "https://raw.githubusercontent.com/ilyaryabov24-cpu/nothingtube-storage/main/videos/1786195696740_test.mp4",
       "id": "1786195696740",
-      "likedBy": [],
-      "likes": 0,
+      "likedBy": [
+        "test"
+      ],
+      "likes": 1,
       "title": "test_2"
     }
   ]
