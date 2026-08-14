@@ -2,7 +2,9 @@
   "users": {
     "test": {
       "password": "123",
-      "subscribers": []
+      "subscribers": [
+        "kofe704"
+      ]
     },
     "стасаград": {
       "password": "200814",
